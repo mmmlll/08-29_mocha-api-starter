@@ -1,2 +1,4 @@
 language: node_js
+node_js:
+  - "6"
 script: NODE_ENV=test mocha test/index_tests
