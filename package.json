@@ -4,7 +4,11 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+<<<<<<< HEAD
     "start": "node index",
+=======
+    "start": "nodemon index",
+>>>>>>> upstream/master
     "test": "NODE_ENV=test mocha test/index_tests"
   },
   "keywords": [],
@@ -17,7 +21,10 @@
     "morgan": "^1.7.0",
     "nodemon": "^1.11.0"
   },
+<<<<<<< HEAD
   "repository": "https://github.com/mmmlll/08-29_mocha-api-starter.git",
+=======
+>>>>>>> upstream/master
   "devDependencies": {
     "chai": "^4.1.1",
     "mocha": "^3.5.0",
